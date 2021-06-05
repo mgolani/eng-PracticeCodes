@@ -1,9 +1,17 @@
 //Check given string is pelindrom or not
 #include <stdio.h>
+#include <stdlib.h>
+
+#define SIZE 20
+
 int main() {
 
-  char Str[20];
+  char *Str;
   int Length=0, i, j; 
+
+  //Allocate memory Dynamically befor use
+  Str = (char *)malloc(SIZE * sizeof(char));
+
   //Take Input from user
   printf("Please Enter String\n");
   scanf("%s",Str);
