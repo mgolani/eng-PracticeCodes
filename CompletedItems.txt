@@ -1,0 +1,21 @@
+//List of all Completed Programs
+
+*Bitwise*
+4. WAP to swap two numbers using bitwise operators.
+
+*Control Statements*
+4. Write a C program to  convert a character. If it is  Lower, convert it to Upper. and if it is
+       Upper  convert  it to Lower character.
+
+*Array*
+4. Write a C program to findout second largest and second smallest elements of an
+      unsorted array without using any Sorting Technique.
+
+*String*
+4. Write a program to find vowels in a given string.
+
+*Recursion*
+4. Write a recursive function to revese the given number.
+
+*Linkled List*
+4. Write a Singly linked list program to delete a particular node from last using single traverse.
